@@ -6,7 +6,7 @@ Howdy!
  
 <p align = "center">
   
-  
+## Tools & Skills  
 <a href="https://spring.io" target="_blank"><img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"></a>
 <a href="https://www.android.com"><img src="https://img.shields.io/badge/Android-02303A.svg?style=for-the-badge&logo=android&logoColor=dark"></a>
 <a href="https://kotlinlang.org"><img src="https://img.shields.io/badge/kotlin%20-%23FF6F00.svg?&style=for-the-badge&logo=kotlin&logoColor=dark" /> </a>
@@ -27,7 +27,7 @@ Howdy!
 
 
 ---
-
+## Github Stats
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=jxareas&show_icons=true&theme=swift&count_private=true&hide_border=true" width = 400>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=jxareas&theme=graywhite&hide_border=true" width = 400>
