@@ -37,8 +37,9 @@ Howdy!
 
  <img src="https://activity-graph.herokuapp.com/graph?username=jxareas&theme=swifthide_border=true" width="100%"/>
 
+
+
 <p align="right">
- 
   <img src="https://komarev.com/ghpvc/?username=jxareas&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="jxareas" />
 </p>
 
