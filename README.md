@@ -31,11 +31,12 @@ Howdy!
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=jxareas&show_icons=true&theme=swift&count_private=true&hide_border=true" width = 400>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=jxareas&theme=graywhite&hide_border=true" width = 400>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jxareas&hide=html,cmake&theme=swift&langs_count=7&layout=compact&hide_border=true" >
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jxareas&hide=html,cmake&theme=swift&langs_count=7&layout=compact&hide_border=true" width = 400>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jxareas&hide_border=true" width = 420 >
  
 </p>
 
- <img src="https://activity-graph.herokuapp.com/graph?username=jxareas&theme=swifthide_border=true" width="100%"/>
+ <img src="https://activity-graph.herokuapp.com/graph?username=jxareas&theme=swift&hide_border=true" width="100%"/>
 
 
 
