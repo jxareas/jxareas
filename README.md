@@ -29,14 +29,14 @@ Howdy!
 ---
 ## Github Stats
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=jxareas&show_icons=true&theme=swift&count_private=true&hide_border=true" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=jxareas&theme=graywhite&hide_border=true" width = 400>
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jxareas&hide=html,cmake,css,scss,assembly&theme=swift&langs_count=7&layout=compact&hide_border=true" width = 400>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jxareas&hide_border=true" width = 420 >
+  <img src = "https://github-readme-stats.vercel.app/api?username=jxareas&show_icons=true&theme=buefy&count_private=true&hide_border=true" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=jxareas&theme=buefy&hide_border=true" width = 400>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jxareas&hide=html,cmake,css,scss,assembly&theme=buefy&langs_count=7&layout=compact&hide_border=true" width = 400>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jxareas&hide_border=true&theme=buefy" width = 420 >
  
 </p>
 
- <img src="https://activity-graph.herokuapp.com/graph?username=jxareas&theme=swift&hide_border=true" width="100%"/>
+ <img src="https://activity-graph.herokuapp.com/graph?username=jxareas&theme=github&area=true&hide_border=true&custom_title=My%20Contribution%20Graph" width="100%"/>
 
 
 
