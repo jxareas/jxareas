@@ -3,10 +3,11 @@
 Howdy!
 </h1>
 
+I'm Jon, a tech enthusiast at the start of my career as a Developer & currently pursuing my bachelor's degree majoring in Computer Science. Passionate about Software Development & Data Science.
  
 <p align = "center">
   
-## Tools & Skills  
+## ⚡ Technologies
  <a href="https://kotlinlang.org"><img src="https://img.shields.io/badge/kotlin%20-%23FF6F00.svg?&style=for-the-badge&logo=kotlin&logoColor=dark" /> </a>
 <a href="https://www.android.com"><img src="https://img.shields.io/badge/Android-02303A.svg?style=for-the-badge&logo=android&logoColor=dark"></a>
 <a href="https://www.oracle.com/java/"><img src="https://img.shields.io/badge/java%20-%23D00000.svg?&style=for-the-badge&logo=java&logoColor=white"/></a>
@@ -24,22 +25,21 @@ Howdy!
   </p>
 
 
----
-## Github Stats
+## 🔎 Github Stats
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=jxareas&show_icons=true&theme=buefy&count_private=true&hide_border=true" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=jxareas&theme=buefy&hide_border=true" width = 400>
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jxareas&hide=html,cmake,css,scss,assembly&theme=buefy&langs_count=7&layout=compact&hide_border=true" width = 400>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jxareas&hide_border=true&theme=buefy" width = 420 >
+  <img src = "https://github-readme-stats.vercel.app/api?username=jxareas&show_icons=true&theme=aura&count_private=true&hide_border=true" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=jxareas&theme=chartreuse-dark&hide_border=true" width = 400>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jxareas&hide=html,cmake,css,scss,assembly&theme=chartreuse-dark&langs_count=7&layout=compact&hide_border=true" width = 400>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jxareas&hide_border=true&theme=aura" width = 420 >
  
 </p>
 
- <img src="https://activity-graph.herokuapp.com/graph?username=jxareas&theme=github&area=true&hide_border=true&custom_title=My%20Contribution%20Graph" width="100%"/>
+ <img src="https://activity-graph.herokuapp.com/graph?username=jxareas&theme=chartreuse-dark&area=true&hide_border=true&custom_title=My%20Contribution%20Graph" width="100%"/>
 
 
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=jxareas&label=Profile%20views&color=0e75b6&style=for-the-badge&color=green" alt="jxareas" />
+  <img src="https://komarev.com/ghpvc/?username=jxareas&label=Profile%20views&color=0e75b6&style=for-the-badge&color=000000" alt="jxareas' profile views" />
 </p>
 
 
