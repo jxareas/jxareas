@@ -48,15 +48,17 @@ Dynamically generated stats for your personal use in GitHub.
 
 My readme uses [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats.git) in order to provide dinamically generated data about my most used programming languages, streak, commits, and other general Github Stats.
 
-Currently, these are my Github Stats, which are rendered after
-using the following code in the README.md:
+This is an example of my Github Stats Card, which are rendered after using the following code in the README.md:
 ```
  <img src = "https://github-readme-stats.vercel.app/api?username=jxareas&show_icons=true&theme=apprentice&count_private=true&hide_border=true" width = 400>
 ```
 
+ It is evident that you need to change the username to your GitHub username for it to work.
+
  <img src = "https://github-readme-stats.vercel.app/api?username=jxareas&show_icons=true&theme=apprentice&count_private=true&hide_border=true" width = 400>
 
-With inbuilt themes, you can customize the look of the card by changing the theme parameter: ```&theme=THEME_NAME``` 
+
+As well, you can customize the look of the card by changing the theme parameter: ```&theme=THEME_NAME``` 
 For instance, this is the card render used by setting the theme name to ```radical```:
 
 
@@ -72,8 +74,7 @@ The WakaTime implementation is also powered by the [Github Readme Stats](https:/
 
 First, you'll have to sign in to the [WakaTime](https://www.google.com/search?q=wakatime&oq=wakatime&aqs=chrome..69i57.829j0j1&sourceid=chrome&ie=UTF-8) website and then provide the WakaTime Key to your IDE, so that it can monitor your statistics.
 
-In the following image, you can view the Wakatime plugin
-in IntelliJ, which is available to most of the Jetbrains powered IDE's.
+In the following image, you can view an image that shows the Wakatime plugin in IntelliJ, which is available to most of the Jetbrains powered IDE's.
 
 <img src = "assets/wakatime_screenshot.jpg" width = 400>
 
