@@ -28,14 +28,14 @@ I love learning about Software Development & Data Science.
 
 ## 🔎 Github Stats
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=jxareas&show_icons=true&theme=apprentice&count_private=true&hide_border=true" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=jxareas&theme=react&hide_border=true" width = 400>
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jxareas&hide=html,cmake,css,scss,powershell,assembly&theme=apprentice&langs_count=10&layout=compact&hide_border=true" width = 400>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jxareas&hide_border=true&theme=react&langs_count=7" width = 420 >
+  <img src = "https://github-readme-stats.vercel.app/api?username=jxareas&show_icons=true&theme=highcontrast&count_private=true&hide_border=true&include_all_commits=true" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=jxareas&theme=highcontrast&hide_border=true" width = 400>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jxareas&hide=html,cmake,css,scss,powershell,assembly&theme=highcontrast&langs_count=10&layout=compact&hide_border=true" width = 400>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jxareas&hide_border=true&theme=highcontrast&langs_count=7" width = 420 >
  
 </p>
 
- <img src="https://activity-graph.herokuapp.com/graph?username=jxareas&theme=monokai&area=true&hide_border=true&custom_title=My%20Contribution%20Graph" width="100%"/>
+ <img src="https://activity-graph.herokuapp.com/graph?username=jxareas&theme=highcontrast&area=true&hide_border=true&custom_title=My%20Contribution%20Graph" width="100%"/>
 
 
 
