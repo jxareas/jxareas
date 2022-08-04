@@ -10,12 +10,13 @@ I love learning about Software Development & Data Science.
 <p align = "center">
   
 ## ⚡ Technologies
- <a href="https://kotlinlang.org"><img src="https://img.shields.io/badge/kotlin%20-%23FF6F00.svg?&style=for-the-badge&logo=kotlin&logoColor=dark" /> </a>
+ <a href="https://kotlinlang.org"><img src="https://img.shields.io/badge/Kotlin-2C2D72?&style=for-the-badge&logo=kotlin&logoColor=lightpurple" /> </a>
 <a href="https://www.android.com"><img src="https://img.shields.io/badge/Android-02303A.svg?style=for-the-badge&logo=android&logoColor=dark"></a>
  <a href="https://spring.io" target="_blank"><img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"></a>
 <a href="https://www.python.org"><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=ffdd54"/></a>
 <a href="https://www.anaconda.com"><img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"></a>
 <a href="https://www.r-project.org"><img src="https://img.shields.io/badge/r%20-%231572B6.svg?&style=for-the-badge&logo=r&logoColor=white"/></a>
+<a href="https://powerbi.microsoft.com/en-au/"><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black"/></a>
 <a href="https://www.postman.com"><img src="https://img.shields.io/badge/postman%20-%23F05033.svg?&style=for-the-badge&logo=postman&logoColor=white"/></a>
 <a href="https://github.com"><img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://git-scm.com"><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/></a>
@@ -28,14 +29,13 @@ I love learning about Software Development & Data Science.
 
 ## 🔎 Github Stats
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=jxareas&show_icons=true&theme=highcontrast&count_private=true&hide_border=true&include_all_commits=true" width = 400>
+  <img src = "https://github-readme-stats.vercel.app/api?username=jxareas&show_icons=true&theme=highcontrast&count_private=true&hide_border=true" width = 400>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=jxareas&theme=highcontrast&hide_border=true" width = 400>
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jxareas&hide=html,cmake,css,scss,powershell,assembly&theme=highcontrast&langs_count=10&layout=compact&hide_border=true" width = 400>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jxareas&hide=html,cmake,css,scss,powershell,assembly,jupyter%20notebook&theme=highcontrast&langs_count=10&layout=compact&hide_border=true" width = 400>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jxareas&hide_border=true&theme=highcontrast&langs_count=7" width = 420 >
- 
 </p>
 
- <img src="https://activity-graph.herokuapp.com/graph?username=jxareas&theme=highcontrast&area=true&hide_border=true&custom_title=My%20Contribution%20Graph" width="100%"/>
+ <img src="https://activity-graph.herokuapp.com/graph?username=jxareas&theme=gotham&area=true&hide_border=true&custom_title=My%20Contribution%20Graph" width="100%"/>
 
 
 

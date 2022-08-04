@@ -72,7 +72,7 @@ For instance, this is the card render used by setting the theme name to ```radic
 Wakatime is a plugin that you can install in most of your IDE's in order to monitor the time that you spend on each one of them. 
 The WakaTime implementation is also powered by the [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats.git) repository.
 
-First, you'll have to sign in to the [WakaTime](https://www.google.com/search?q=wakatime&oq=wakatime&aqs=chrome..69i57.829j0j1&sourceid=chrome&ie=UTF-8) website and then provide the WakaTime Key to your IDE, so that it can monitor your statistics.
+First, you'll have to sign in to the [WakaTime](https://wakatime.com/login) website and then provide the WakaTime Key to your IDE, so that it can monitor your statistics.
 
 In the following image, you can view an image that shows the Wakatime plugin in IntelliJ, which is available to most of the Jetbrains powered IDE's.
 
