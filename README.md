@@ -37,7 +37,7 @@ I love learning about Software Development & Data Science.
 
 </p>
 
- <img src="https://activity-graph.herokuapp.com/graph?username=jxareas&theme=gotham&area=true&hide_border=true&custom_title=My%20Contribution%20Graph" width="100%"/>
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=jxareas&theme=gotham&area=true&hide_border=true&custom_title=My%20Contribution%20Graph" width="100%"/>
 
 
 
