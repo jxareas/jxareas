@@ -29,11 +29,11 @@ I love learning about Software Development & Data Science.
 
 ## 🔎 Github Stats
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=jxareas&show_icons=true&theme=highcontrast&count_private=true&hide_border=true" width = 400>
+  <img src = "https://github-readme-stats-jxareas.vercel.app/api?username=jxareas&show_icons=true&theme=highcontrast&count_private=true&hide_border=true" width = 400>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=jxareas&theme=highcontrast&hide_border=true" width = 400>
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jxareas&hide=html,cmake,css,scss,powershell,assembly,procfile,shell,less,jupyter%20notebook&theme=highcontrast&langs_count=11&layout=compact&hide_border=true" width = 400>
+  <img  src="https://github-readme-stats-jxareas.vercel.app/api/top-langs/?username=jxareas&hide=html,cmake,css,scss,powershell,assembly,procfile,shell,less,jupyter%20notebook&theme=highcontrast&langs_count=11&layout=compact&hide_border=true" width = 400>
   
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jxareas&hide_border=true&theme=highcontrast&langs_count=9" width = 420 >
+  <img src="https://github-readme-stats-jxareas.vercel.app/api/wakatime?username=jxareas&hide_border=true&theme=highcontrast&langs_count=9" width = 420 >
 
 </p>
 
