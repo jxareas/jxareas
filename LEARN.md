@@ -34,7 +34,8 @@ This is a brief section detailing the technologies (programming languages, IDE's
 ### Icons 👻
 
 You can embed the icons of the technologies that you use.
-In my readme, i use the icons found at [Badges-4-Readme](https://github.com/alexandresanlim/Badges4-README.md-Profile.git), a repository that provides a lot of icons related with programming languages, frameworks, IDE's, social media, etc.
+I used to use the icons found at [Badges-4-Readme](https://github.com/alexandresanlim/Badges4-README.md-Profile.git), a repository that provides a lot of icons related with programming languages, frameworks, IDE's, social media, etc.
+Nonetheless, as of now I'm using custom icons downloaded from anywhere on the internet.
 
 Other common icons oftenly used in readme profiles are:
 * [Skill Icons](https://github.com/tandpfun/skill-icons)

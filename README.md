@@ -5,44 +5,48 @@ Howdy!
 </h1>
 
 I'm Jon, a tech enthusiast at the start of my career as a Developer & currently pursuing my bachelor's degree in Computer Science. 
+
 I love learning about Software Development & Data Science.
  
 <p align = "center">
   
-## ⚡ Technologies
- <a href="https://kotlinlang.org"><img src="https://img.shields.io/badge/Kotlin-2C2D72?&style=for-the-badge&logo=kotlin&logoColor=lightpurple" /> </a>
-<a href="https://www.android.com"><img src="https://img.shields.io/badge/Android-02303A.svg?style=for-the-badge&logo=android&logoColor=dark"></a>
- <a href="https://spring.io" target="_blank"><img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"></a>
-<a href="https://www.python.org"><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=ffdd54"/></a>
-<a href="https://www.anaconda.com"><img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"></a>
-<a href="https://www.r-project.org"><img src="https://img.shields.io/badge/r%20-%231572B6.svg?&style=for-the-badge&logo=r&logoColor=white"/></a>
-<a href="https://powerbi.microsoft.com/en-au/"><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black"/></a>
-<a href="https://www.postman.com"><img src="https://img.shields.io/badge/postman%20-%23F05033.svg?&style=for-the-badge&logo=postman&logoColor=white"/></a>
-<a href="https://github.com"><img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://git-scm.com"><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/></a>
- <a href="https://www.javascript.com"><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a>
-<a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads"><img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"></a>
-<a href="https://www.postgresql.org"><img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"></a>
-<a href="https://www.sqlite.org/index.html"><img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"></a>
-  </p>
+## 🦾 My Techs
+
+<p align="center">
+  <code><a href="https://kotlinlang.org"><img title="Kotlin" height="25" src="./assets/images/kotlin.svg"></a></code>
+  <code><a href="https://www.android.com"><img title="Android" height="25" src="assets/images/android.svg"></a></code>
+  <code><a href="https://www.java.com/en/"><img title="Java" height="25" src="assets/images/java-original.svg"></a></code>
+  <code><a href="https://spring.io"><img title="Spring" height="25" src="./assets/images/spring.svg"></a></code>
+  <code><a href="https://www.python.org"><img title="Python" height="25" src="assets/images/python-original.svg"></a></code>
+  <code><a href="https://scikit-learn.org/"><img title="Scikit-Learn" height="25" src="assets/images/scikit-learn.png"></a></code>
+  <code><a href="https://www.r-project.org"><img title="R" height="25" src="assets/images/r.svg"></a></code>
+  <code><a href="https://powerbi.microsoft.com/en-au/"><img title="Power BI" height="25" src="assets/images/powerbi.png"></a></code>
+  <code><a href="https://www.javascript.com"><img title="Javascript" height="25" src="./assets/images/javascript.svg"></a></code>
+  <code><a href="https://git-scm.com"><img title="Git" height="25" src="assets/images/git-original.svg"></a></code>
+  <code><a href="https://github.com"><img title="GitHub" height="25" src="assets/images/github.svg"></a></code>
+  <code><a href="https://www.postgresql.org"><img title="PostgreSQL" height="25" src="assets/images/postgresql.svg"></a></code>
+  <code><a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads"><img title="SQL Server" height="25" src="./assets/images/sql_server.svg"></a></code>
+  <code><a href="https://www.sqlite.org/index.html"><img title="SQLite" height="25" src="assets/images/sqlite.png"></a></code>
+  
+</p>
 
 
 ## 🔎 Github Stats
 <p align = "center">
-  <img src = "https://github-readme-stats-jxareas.vercel.app/api?username=jxareas&show_icons=true&theme=highcontrast&count_private=true&hide_border=true" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=jxareas&theme=highcontrast&hide_border=true" width = 400>
-  <img  src="https://github-readme-stats-jxareas.vercel.app/api/top-langs/?username=jxareas&hide=html,cmake,css,scss,powershell,assembly,procfile,shell,less,jupyter%20notebook&theme=highcontrast&langs_count=11&layout=compact&hide_border=true" width = 400>
+  <img src = "https://github-readme-stats-jxareas.vercel.app/api?username=jxareas&show_icons=true&theme=chartreuse-dark&count_private=true&hide_border=true" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=jxareas&theme=chartreuse-dark&hide_border=true" width = 400>
+  <img  src="https://github-readme-stats-jxareas.vercel.app/api/top-langs/?username=jxareas&hide=html,cmake,css,scss,powershell,assembly,procfile,shell,less,jupyter%20notebook&theme=chartreuse-dark&langs_count=11&layout=compact&hide_border=true" width = 400>
   
-  <img src="https://github-readme-stats-jxareas.vercel.app/api/wakatime?username=jxareas&hide_border=true&theme=highcontrast&langs_count=9" width = 420 >
+  <img src="https://github-readme-stats-jxareas.vercel.app/api/wakatime?username=jxareas&hide_border=true&theme=chartreuse-dark&langs_count=9" width = 420 >
 
 </p>
 
- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=jxareas&theme=gotham&area=true&hide_border=true&custom_title=My%20Contribution%20Graph" width="100%"/>
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=jxareas&theme=chartreuse-dark&area=true&hide_border=true&custom_title=My%20Contribution%20Graph" width="100%"/>
 
 
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=jxareas&label=Profile%20views&color=0e75b6&style=for-the-badge&color=000000" alt="jxareas' profile views" />
+  <img src="https://komarev.com/ghpvc/?username=jxareas&label=Views&style=for-the-badge&color=252D3B" alt="jxareas' profile views" />
 </p>
 
 
