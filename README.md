@@ -4,9 +4,9 @@ Howdy!
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-I'm Jon, a software developer, student & tech enthusiast currently pursuing my bachelor's degree in Computer Science. 
+I'm Jon: a software developer, student & tech enthusiast, currently pursuing my bachelor's degree in Computer Science. 
 
-I love learning about Web / Mobile Development, Data Science & Software Architecture.
+I love learning about Web and Mobile Development, Data Science & Software Architecture.
  
 <p align = "center">
   
@@ -40,15 +40,15 @@ I love learning about Web / Mobile Development, Data Science & Software Architec
 
 ## 🔎 Github Stats
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=jxareas&show_icons=true&theme=chartreuse-dark&count_private=true&hide_border=true" width = 400>
+    <img src = "https://github-readme-stats-rongronggg9.vercel.app/api?username=jxareas&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true" width = 400>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=jxareas&theme=chartreuse-dark&hide_border=true" width = 400>
   <img  src="https://github-readme-stats-jxareas.vercel.app/api/top-langs/?username=jxareas&hide=html,cmake,css,scss,powershell,assembly,procfile,shell,less,jupyter%20notebook&theme=chartreuse-dark&langs_count=11&layout=compact&hide_border=true" width = 400>
   
-  <img src="https://github-readme-stats-jxareas.vercel.app/api/wakatime?username=jxareas&hide_border=true&theme=chartreuse-dark&langs_count=9" width = 420 >
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jxareas&hide_border=true&theme=chartreuse-dark&langs_count=9&range=last_7_days" width = 420 >
 
 </p>
 
- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=jxareas&theme=chartreuse-dark&area=true&hide_border=true&custom_title=My%20Contribution%20Graph" width="100%"/>
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=jxareas&theme=chartreuse-dark" width="100%"/>
 
 
 
