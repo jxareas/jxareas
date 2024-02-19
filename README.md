@@ -4,9 +4,9 @@ Howdy!
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-I'm Jon: a software developer, student & tech enthusiast, currently pursuing my bachelor's degree in Computer Science. 
+I'm Jon Areas: software engineer & tech enthusiast, always learning new skills and polishing the ones I have. 
 
-I love learning about Web / Mobile Development, Data Science, Business Intelligence & Software Architecture.
+I love learning about a wide variety of topics, such as: Web & Mobile Development, Data Science, Business Intelligence & Software Architecture.
  
 <p align = "center">
   
