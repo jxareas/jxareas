@@ -53,7 +53,7 @@ I love learning about a wide variety of topics, such as: Web & Mobile Developmen
 
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=jxareas&label=Views&style=for-the-badge&color=252D3B" alt="jxareas' profile views" />
+  <img src="https://komarev.com/ghpvc/?username=jxareas&label=Profile%20views&style=for-the-badge&color=030303" alt="jxareas' profile views" />
 </p>
 
 
