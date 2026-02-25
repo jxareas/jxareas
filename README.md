@@ -4,9 +4,9 @@ Hey there!
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-Hello, I'm JX Areas! 🤗
+Hey there, I'm JX! 🤗
 
-I'm an enthusiastic lifelong learner who loves exploring a wide variety of topics, including all things statistics, software engineering & economics.
+I'm an enthusiastic lifelong learner who loves exploring a wide variety of topics, including all things statistics & economics.
  
 <p align = "center">
   
@@ -57,4 +57,5 @@ I'm an enthusiastic lifelong learner who loves exploring a wide variety of topic
 
 
   
+
 
