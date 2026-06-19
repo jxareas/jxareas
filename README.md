@@ -4,9 +4,9 @@ Hey there!
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-Hey there, I'm JX! 🤗
+Hey there, I'm Jon! 🤗
 
-I'm an enthusiastic lifelong learner who loves exploring a wide variety of topics, including all things statistics & economics.
+I'm an enthusiastic machine learning engineer who loves exploring a wide variety of topics, including all things statistics & economics.
  
 <p align = "center">
   
